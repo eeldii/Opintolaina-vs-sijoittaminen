@@ -7,6 +7,10 @@ A Finnish-language calculator comparing immediate student-loan repayment with in
 
 Halusin selvittää, miten yksinkertainen säästöjen sijoittaminen S&P 500:aan vertaisi välittömään lainanlyhennykseen. Tässä yksinkertainen koodi, joka testaa teoriaa.
 
+--> Tulokset riippuivat vahvasti valitusta ajanjaksosta.
+<img width="1290" height="592" alt="image" src="https://github.com/user-attachments/assets/ea363fb3-0ef0-4950-b78a-2bcf6dbc71e6" />
+<img width="1300" height="589" alt="image" src="https://github.com/user-attachments/assets/6f916913-daf7-4e93-bfa1-90a32a9480dd" />
+
 
 ## Features
 
