@@ -1,0 +1,11 @@
+{
+  "name": "opintolaina-vai-sijoittaminen",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test simulation.test.mjs historical.test.mjs input-format.test.mjs browser-build.test.mjs",
+    "example": "node example.mjs",
+    "build": "node build-local.mjs",
+    "dev": "node preview.mjs"
+  }
+}
